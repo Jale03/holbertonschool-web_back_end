@@ -1,1 +1,1 @@
-Variable annotations
+variable annotations
